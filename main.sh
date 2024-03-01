@@ -4,14 +4,14 @@
 # ------------------------------------------------------------
 
 # Kernel
-KERNEL_NAME="MilkKernel"
+KERNEL_NAME="LOSKernel"
 KERNEL_GIT="https://github.com/SchweGELBin/kernel_milk_davinci.git"
-KERNEL_BRANCH="pixelos-14.0"
+KERNEL_BRANCH="lineage-20"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
 REMOVE_SIG_VER="true"
-KSU_ENABLED="true"
+KSU_ENABLED="false"
 
 # Anykernel3
 ANYKERNEL3_GIT="https://github.com/SchweGELBin/AnyKernel3_davinci.git"
@@ -23,7 +23,7 @@ DEVICE_DEFCONFIG="davinci_defconfig"
 DEVICE_ARCH="arch/arm64"
 
 # Clang
-CLANG_REPO="ZyCromerZ/Clang"
+CLANG_REPO="llvm/llvm-project"
 
 # ------------------------------------------------------------
 
