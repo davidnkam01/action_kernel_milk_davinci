@@ -23,7 +23,7 @@ DEVICE_DEFCONFIG="davinci_defconfig"
 DEVICE_ARCH="arch/arm64"
 
 # Clang
-CLANG_REPO="llvm/llvm-project"
+CLANG_REPO="ZyCromerZ/Clang"
 
 # ------------------------------------------------------------
 
