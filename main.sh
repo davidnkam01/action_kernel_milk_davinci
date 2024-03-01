@@ -5,8 +5,8 @@
 
 # Kernel
 KERNEL_NAME="LOSKernel"
-KERNEL_GIT="https://github.com/SchweGELBin/kernel_milk_davinci.git"
-KERNEL_BRANCH="lineage-20"
+KERNEL_GIT="https://github.com/DAVINCI-AS-STUDIOS/crdroid_kernel_xiaomi_sm6150.git"
+KERNEL_BRANCH="13.0"
 
 # KernelSU
 KERNELSU_REPO="tiann/KernelSU"
